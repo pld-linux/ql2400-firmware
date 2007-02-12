@@ -2,7 +2,7 @@
 %define		nameprog ql2400
 
 Summary:	Firmware for the QLogic %{nameprog} HBA
-Summary(pl.UTF-8):   Firmware dla HBA QLogic %{nameprog}
+Summary(pl.UTF-8):	Firmware dla HBA QLogic %{nameprog}
 Name:		%{nameprog}-firmware
 Version:	4.00.23
 Release:	0.1
