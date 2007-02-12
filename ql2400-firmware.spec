@@ -2,7 +2,7 @@
 %define		nameprog ql2400
 
 Summary:	Firmware for the QLogic %{nameprog} HBA
-Summary(pl):	Firmware dla HBA QLogic %{nameprog}
+Summary(pl.UTF-8):   Firmware dla HBA QLogic %{nameprog}
 Name:		%{nameprog}-firmware
 Version:	4.00.23
 Release:	0.1
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains the firmware for the QLogic %{nameprog} driver.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet zawiera firmware dla sterownika QLogic %{nameprog}.
 
 %prep
