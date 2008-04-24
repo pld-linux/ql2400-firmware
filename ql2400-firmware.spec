@@ -4,12 +4,12 @@
 Summary:	Firmware for the QLogic %{nameprog} HBA
 Summary(pl.UTF-8):	Firmware dla HBA QLogic %{nameprog}
 Name:		%{nameprog}-firmware
-Version:	4.03.00
+Version:	4.04.00
 Release:	1
 License:	distributable
 Group:		Base/Kernel
 Source0:	ftp://ftp.qlogic.com/outgoing/linux/firmware/%{nameprog}_fw.bin
-# Source0-md5:	6579ab50350c242f5e1ac58947b53019
+# Source0-md5:	e6cc1a09f2b92fc91bfa57855cb647e2
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
