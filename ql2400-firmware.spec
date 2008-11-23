@@ -4,7 +4,7 @@
 Summary:	Firmware for the QLogic %{nameprog} HBA
 Summary(pl.UTF-8):	Firmware dla HBA QLogic %{nameprog}
 Name:		%{nameprog}-firmware
-Version:	4.04.00
+Version:	4.04.05
 Release:	1
 License:	distributable
 Group:		Base/Kernel
